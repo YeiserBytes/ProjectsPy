@@ -1,6 +1,6 @@
 # ProjectsPy
 
-![Banner](99 \ejercicios.gif)
+![Banner](99_ejercicios.gif)
 
 El proyecto de 99 ejercicios de Python es una colección de problemas y desafíos que están diseñados para ayudar a los proximos programadores a mejorar sus habilidades en Python. Cada ejercicio se enfoca en un tema específico, desde conceptos básicos como variables y estructuras de control hasta temas más avanzados como programación orientada a objetos y manejo de excepciones.
 
